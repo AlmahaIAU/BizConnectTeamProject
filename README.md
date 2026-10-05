@@ -1,2 +1,2 @@
-# Reacall-AI-memory (AppProject)
-Team Repostry for Recall App 
+# BizConnect (AppProject)
+Team Repository for BizConnect App 
